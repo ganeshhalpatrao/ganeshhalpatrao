@@ -62,9 +62,10 @@ I love transforming raw data into compelling visualizations and predictive model
 | **[Customer Segmentation](https://github.com/ganeshhalpatrao/Customer-Segmentation)** | Clustering and profiling customers for smarter marketing and retention | Python, Scikit-Learn, Pandas, Matplotlib | ✅ Complete |
 | **[Walmart Sales Analysis](https://github.com/ganeshhalpatrao/Walmart_Sales_Analysis)** | Insightful sales trends, department/store analysis, and BI dashboards | Power BI, Python, Pandas | ✅ Complete |
 | **[Uber Data Analysis](https://github.com/ganeshhalpatrao/Uber_Data_Analysis)** | Analysis and visualization of ride data with actionable business insights | Python, Pandas, Seaborn | ✅ Complete |
-| **[Quiendent](https://github.com/ganeshhalpatrao/Quiendent)** | (Add your project tagline or description here) | (List tech stack) | 🚧 In Progress |
+| **[Quiendent](https://github.com/ganeshhalpatrao/Quiendent)** | Full-stack e-commerce platform with user authentication, payment integration, and admin dashboard | Django, Python, MySQL, HTML/CSS, JavaScript | ✅ Complete |
 
 </div>
+
 
 
 
